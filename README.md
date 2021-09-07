@@ -1,3 +1,4 @@
-# Thomas-Github
+# GitHub repository voor Akas: Ordero Signage
 
-## Test Test Test Test
+## Stage bij Akas Kassasystemen en Webdesign
+Gemaakt door Thomas en Mischa
